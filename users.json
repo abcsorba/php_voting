@@ -1,0 +1,44 @@
+[
+    {
+        "id": "userid1",
+        "username": "admin",
+        "email": "email1@email.hu",
+        "password": "admin",
+        "isAdmin": "1"
+    },
+    {
+        "id": "userid2",
+        "username": "user2",
+        "email": "email2@email.hu",
+        "password": "user2",
+        "isAdmin": "0"
+    },
+    {
+        "id": "userid3",
+        "username": "user3",
+        "email": "email3@email.hu",
+        "password": "user3",
+        "isAdmin": "0"
+    },
+    {
+        "id": "userid4",
+        "username": "csab",
+        "email": "csorbaakosbence@gmail.com",
+        "password": "alma",
+        "isAdmin": "0"
+    },
+    {
+        "id": "userid5",
+        "username": "csabosito",
+        "email": "csabosito@gmail.com",
+        "password": "banan",
+        "isAdmin": "0"
+    },
+    {
+        "id": "userid6",
+        "username": "test",
+        "email": "test@gmail.com",
+        "password": "eper",
+        "isAdmin": "0"
+    }
+]
